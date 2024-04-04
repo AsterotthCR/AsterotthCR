@@ -18,7 +18,7 @@ Skills
 - 🌐 Other: RESTful APIs, Git, 
 
 Get in Touch
-- LinkedIn: [Shean Cordero](https://www.linkedin.com/in/shean-cordero-634147237)
+- LinkedIn: [Shean Cordero](https://www.linkedin.com/in/sheancordero97)
 
 
 <!---
