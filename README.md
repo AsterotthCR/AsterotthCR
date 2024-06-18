@@ -12,10 +12,10 @@ Interests
 - 🧠 I enjoy exploring new technologies and learning about software architecture
 
 Skills
-- 💻 Languages: Java, Kotling.
+- 💻 Languages: Java, HTML, CSS, JS.
 - 🛠️ Frameworks: Spring boot, Angular, React.
 - 🗄️ Databases: MySQL, PostgreSQL.
-- 🌐 Other: RESTful APIs, Git, 
+- 🌐 Other: RESTful APIs, Git, Clean Arquitecture, SOLID, Design Patterns, Data Structures.
 
 Get in Touch
 - LinkedIn: [Shean Cordero](https://www.linkedin.com/in/sheancordero97)
